@@ -1,10 +1,10 @@
 🌍
-*[Čeština](README-cs.md) ∙ [Deutsch](README-de.md) ∙ [Ελληνικά](README-el.md) ∙ [English](README.md) ∙ [Español](README-es.md) ∙ [Français](README-fr.md) ∙ [Indonesia](README-id.md) ∙ [Italiano](README-it.md) ∙ [日本語](README-ja.md) ∙ [ភាសាខ្មែរ](README-km.md) ∙ [한국어](README-ko.md) ∙ [polski](README-pl.md) ∙ [Português](README-pt.md) ∙ [Română](README-ro.md) ∙ [Русский](README-ru.md) ∙ [Slovenščina](README-sl.md) ∙ [Українська](README-uk.md) ∙ [简体中文](README-zh.md) ∙ [繁體中文](README-zh-Hant.md) ∙ [ភាសាខ្មែរ](README-km.md)*
+*[Čeština](README-cs.md) ∙ [Deutsch](README-de.md) ∙ [Ελληνικά](README-el.md) ∙ [English](README.md) ∙ [Español](README-es.md) ∙ [Français](README-fr.md) ∙ [Indonesia](README-id.md) ∙ [Italiano](README-it.md) ∙ [日本語](README-ja.md) ∙ [ភាសាខ្មែរ](README-km.md) ∙ [한국어](README-ko.md) ∙ [polski](README-pl.md) ∙ [Português](README-pt.md) ∙ [Română](README-ro.md) ∙ [Русский](README-ru.md) ∙ [Slovenščina](README-sl.md) ∙ [Українська](README-uk.md) ∙ [简体中文](README-zh.md) ∙ [繁體中文](README-zh-Hant.md)*
 
 
 # សិល្បៈនៃការប្រើប្រាស់ Command Line
 
-*កំណត់ចំណាំ៖ ខ្ញុំមានគម្រោងកែសម្រួលឯកសារនេះឡើងវិញ ហើយកំពុងស្វែងរកអ្នកនិពន្ធចូលរួម (co-author) ថ្មីដើម្បីជួយពង្រីកឯកសារនេះឱ្យកាន់តែទូលំទូលាយ។ បើទោះជាឯកសារនេះមានប្រជាប្រិយភាពក៏ដោយ វាគួរតែមានលក្ខណៈទូលាយ និងស៊ីជម្រៅជាងនេះ។ ប្រសិនបើអ្នកចូលចិត្តសរសេរ ហើយជាអ្នកជំនាញលើផ្នែកនេះ និងមានបំណងចង់ជួយ សូមផ្ញើសារមកខ្ញុំតាមរយៈ josh (0x40) holloway.com។ –[jlevy](https://github.com/jlevy), [Holloway](https://www.holloway.com)។ សូមអរគុណ!*
+![curl -s 'https://raw.githubusercontent.com/jlevy/the-art-of-command-line/master/README.md' | egrep -o '`\\w+`' | tr -d '`' | cowsay -W50](cowsay.png)
 
 - [មេតា](#មេតា-meta)
 - [មូលដ្ឋានគ្រឹះ](#មូលដ្ឋានគ្រឹះ-basics)
@@ -465,5 +465,7 @@ mkdir empty && rsync -r --delete empty/ some-dir && rmdir some-dir
 លើកលែងតែកិច្ចការតូចតាចបំផុត, កូដត្រូវបានសរសេរដើម្បីឱ្យអ្នកដទៃអាចអានវាបាន។ ជាមួយថាមពលមកជាមួយការទទួលខុសត្រូវ។ ការពិតដែលអ្នក *អាច* ធ្វើអ្វីមួយនៅក្នុង Bash មិនមែនមានន័យថាអ្នកគួរធ្វើវាទេ! ;)
 
 ## អាជ្ញាប័ណ្ណ (License)
+
+[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
 ការងារនេះត្រូវបានផ្តល់អាជ្ញាប័ណ្ណក្រោម [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)។
