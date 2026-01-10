@@ -6,6 +6,9 @@
 
 [![Ask a Question](https://img.shields.io/badge/%3f-Ask%20a%20Question-ff69b4.svg)](https://airtable.com/shrzMhx00YiIVAWJg)
 
+[![Join the chat at https://gitter.im/jlevy/the-art-of-command-line](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jlevy/the-art-of-command-line?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+
 - [មេតា](#មេតា-meta)
 - [មូលដ្ឋានគ្រឹះ](#មូលដ្ឋានគ្រឹះ-basics)
 - [ការប្រើប្រាស់ប្រចាំថ្ងៃ](#ការប្រើប្រាស់ប្រចាំថ្ងៃ-everyday-use)
