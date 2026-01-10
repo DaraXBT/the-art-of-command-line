@@ -4,6 +4,8 @@
 
 # សិល្បៈនៃការប្រើប្រាស់ Command Line
 
+[![Ask a Question](https://img.shields.io/badge/%3f-Ask%20a%20Question-ff69b4.svg)](https://airtable.com/shrzMhx00YiIVAWJg)
+
 - [មេតា](#មេតា-meta)
 - [មូលដ្ឋានគ្រឹះ](#មូលដ្ឋានគ្រឹះ-basics)
 - [ការប្រើប្រាស់ប្រចាំថ្ងៃ](#ការប្រើប្រាស់ប្រចាំថ្ងៃ-everyday-use)
